@@ -14,7 +14,7 @@ Download YouTube videos in the highest available quality using `yt-dlp` and `ffm
 
 ## 📦 Installation
 ```bash
-git clone <ADD>
+git clone https://github.com/Bielsbd2005/youtube-downloader.git
 cd youtube-downloader
 python -m venv .venv
 
